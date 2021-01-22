@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Cleaning & Laundry since 1952
   content: Cleaning & Laundry since 1952
-  image: "/images/rectangle-1.png"
+  image: images/rectangle-1.png
   button:
     enable: true
     label: WHAT WE DO
