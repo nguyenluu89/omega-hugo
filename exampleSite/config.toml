@@ -1,7 +1,7 @@
-baseURL = "jeremyluu.com"
+baseURL = "https://cleankalle.netlify.app/"
 googleAnalytics = ""
 theme = "omega"
-title = "OMEGA"
+title = "Clean Kalle"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
