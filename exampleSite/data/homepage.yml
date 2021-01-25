@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: Oscar
-  content: Cleaning & Laundry since 1952
+  content: Oscar
   image: images/rectangle-1.png
   button:
     enable: true
